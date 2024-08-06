@@ -1,0 +1,17 @@
+//August-06-2024:
+git init
+git add
+mkdir task
+cd task
+touch task1.txt.
+git log
+
+git status
+git commit -m "Initial commit"
+git add <name of the file>
+git commit -m "message"
+
+git checkout <branch name>
+git push <Renote URL>
+git clone <HTTPS or SSH URL>
+git push -u origin main
